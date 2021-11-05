@@ -9,4 +9,4 @@
 
 Site responsivo desenvolvido com __HTML__, __CSS__ e __Javascript__
 
-Feito com :heart: por [Ana Júlia](https://github.com/AJuliaSouza)
+Feito com :heart: por [Ana Júlia Souza](https://github.com/AJuliaSouza)
